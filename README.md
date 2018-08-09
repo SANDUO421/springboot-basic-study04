@@ -1,5 +1,7 @@
 # _springBoot 高级实战_ 
 
+参考书籍：
+    springboot实战 完整版 链接：https://pan.baidu.com/s/1mplnrtdXT-jdYtgR0yxI_Q 密码：kem5
 
 **应用监控** 
 
