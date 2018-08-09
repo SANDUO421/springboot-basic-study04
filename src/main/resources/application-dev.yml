@@ -1,0 +1,19 @@
+server: 
+  port: 8888
+  
+spring: 
+  application:
+    name: springboot-basic-study04
+#management:
+#  endpoints:
+#    web:
+#      exposure:
+#        include: "*"
+      
+logging: 
+  file: logs/log.log
+  level: 
+    org.springframework.web: DEBUG
+      
+    
+
